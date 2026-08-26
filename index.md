@@ -2,4 +2,4 @@
 layout: home
 title: Welcome to my blog!
 ---
-**It's a brand new day**
+**It's another brand new day**
